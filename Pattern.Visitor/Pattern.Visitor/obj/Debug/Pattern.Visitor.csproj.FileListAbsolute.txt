@@ -1,0 +1,8 @@
+C:\Users\Sergey\Documents\Visual Studio 2015\Projects\Pattern.Visitor-master\Pattern.Visitor-master\Pattern.Visitor\Pattern.Visitor\bin\Debug\Pattern.Visitor.exe.config
+C:\Users\Sergey\Documents\Visual Studio 2015\Projects\Pattern.Visitor-master\Pattern.Visitor-master\Pattern.Visitor\Pattern.Visitor\bin\Debug\Pattern.Visitor.exe
+C:\Users\Sergey\Documents\Visual Studio 2015\Projects\Pattern.Visitor-master\Pattern.Visitor-master\Pattern.Visitor\Pattern.Visitor\bin\Debug\Pattern.Visitor.pdb
+C:\Users\Sergey\Documents\Visual Studio 2015\Projects\Pattern.Visitor-master\Pattern.Visitor-master\Pattern.Visitor\Pattern.Visitor\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Sergey\Documents\Visual Studio 2015\Projects\Pattern.Visitor-master\Pattern.Visitor-master\Pattern.Visitor\Pattern.Visitor\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Sergey\Documents\Visual Studio 2015\Projects\Pattern.Visitor-master\Pattern.Visitor-master\Pattern.Visitor\Pattern.Visitor\obj\Debug\Pattern.Visitor.csprojResolveAssemblyReference.cache
+C:\Users\Sergey\Documents\Visual Studio 2015\Projects\Pattern.Visitor-master\Pattern.Visitor-master\Pattern.Visitor\Pattern.Visitor\obj\Debug\Pattern.Visitor.exe
+C:\Users\Sergey\Documents\Visual Studio 2015\Projects\Pattern.Visitor-master\Pattern.Visitor-master\Pattern.Visitor\Pattern.Visitor\obj\Debug\Pattern.Visitor.pdb
